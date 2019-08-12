@@ -1,1 +1,1 @@
-# R-Boyer-Moore
+L'algorithme de Boyer-Moore est un algorithme de recherche de sous-chaîne particulièrement efficace. Il a été développé par Robert S. Boyer et J. Strother Moore1 en 1977. [Lire la suite...](https://fr.wikipedia.org/wiki/Algorithme_de_Boyer-Moore)
